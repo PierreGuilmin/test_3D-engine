@@ -1,4 +1,5 @@
 [![](https://travis-ci.org/PierreGuilmin/test_3D-engine.svg?branch=master)](https://travis-ci.org/PierreGuilmin/test_3D-engine)
+[![](https://www.codefactor.io/repository/github/pierreguilmin/test_3d-engine/badge)](https://www.codefactor.io/repository/github/pierreguilmin/test_3d-engine)
 
 # 3D-engine
 
