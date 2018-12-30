@@ -7,10 +7,13 @@ OBJ      = $(patsubst src/%.cpp, obj/%.o, $(SRC))
 DEP      = $(OBJ:.o=.d)
 
 
+-include $(DEP)
+
+
 all: print_compilation $(EXEC) open
 
 
--include $(DEP)
+compile: print_compilation $(EXEC)
 
 
 print_compilation:
