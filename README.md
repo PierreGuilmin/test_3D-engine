@@ -1,3 +1,5 @@
+[![](https://travis-ci.org/PierreGuilmin/test_3D-engine.svg?branch=master)](https://travis-ci.org/PierreGuilmin/test_3D-engine)
+
 # 3D-engine
 
 This project is a 3d-rendering engine made from scratch in C++ **without using any 3d-rendering libraries** (like OpenGL or so).
