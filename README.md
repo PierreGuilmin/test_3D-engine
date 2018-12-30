@@ -1,5 +1,5 @@
-[![](https://travis-ci.org/PierreGuilmin/test_3D-engine.svg?branch=master)](https://travis-ci.org/PierreGuilmin/test_3D-engine)
-[![](https://www.codefactor.io/repository/github/pierreguilmin/test_3d-engine/badge)](https://www.codefactor.io/repository/github/pierreguilmin/test_3d-engine)
+[![Travis CI badge](https://travis-ci.org/PierreGuilmin/test_3D-engine.svg?branch=master)](https://travis-ci.org/PierreGuilmin/test_3D-engine)
+[![CodeFactor badge](https://www.codefactor.io/repository/github/pierreguilmin/test_3d-engine/badge)](https://www.codefactor.io/repository/github/pierreguilmin/test_3d-engine)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/6e7d6579d10b42d3a52b347181c44d31)](https://app.codacy.com/app/pierre.guilmin/test_3D-engine?utm_source=github.com&utm_medium=referral&utm_content=PierreGuilmin/test_3D-engine&utm_campaign=Badge_Grade_Dashboard)
 
 # 3D-engine
