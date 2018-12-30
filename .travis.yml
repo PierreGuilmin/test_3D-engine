@@ -1,0 +1,12 @@
+language: cpp
+sudo: required #necessar ?
+os: osx
+compiler:
+    - clang
+
+install:
+    - brew install sfml
+
+script:
+    - pwd
+    - make
